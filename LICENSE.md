@@ -42,6 +42,10 @@ Minecraft Pi by the [Raspberry Pi Foundation](https://www.raspberrypi.org/) is l
 
 Based on a work at [https://github.com/raspberrypilearning/getting-started-with-minecraft-pi](https://github.com/raspberrypilearning/getting-started-with-minecraft-pi)
 
+## 학습 교재 제작 템플릿
+
+[Software Carpentry](http://software-carpentry)에서 제작한 교재 제작 템플릿을 저작도구로 사용합니다.
+
 ## 상표권(Trademark)
 
 `xwMOOC`와 [xwMOOC](http://xwmooc.net/)로고는 엑스더블유무크 등록 상표입니다.
