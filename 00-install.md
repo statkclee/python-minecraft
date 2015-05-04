@@ -58,12 +58,12 @@ sudo apt-get install minecraft-pi
 빠른 그리기 패널(quick draw panel)에서 아이템을 선택하는데, `E` 를 누르거나, 
 마우스 가운데 스크롤 휠, 혹은 키보드에 숫자를 사용해서 소장목록(inventory)에서 원하는 것을 고른다.
 
-![소장목록(inventory)](mcpi-inventory.png)
+![소장목록(inventory)](fig/mcpi-inventory.png)
 
 스페이스바(space bar)를 두번 눌러 하늘로 날 수 있다. 누른 스페이스바를 해제하게 되면 하늘을 나는 것을 멈춘다.
 만약 다시 스페이스바를 두번 누르게 되면 지상으로 떨어지게 된다.
 
-![하늘로 날아오르기](mcpi-flying.png)
+![하늘로 날아오르기](fig/mcpi-flying.png)
 
 칼을 손에 잡고, 앞에 있는 블록을 클릭하면 해당 블록을 제거할(혹은 파고 들어갈) 수 있다. 
 손에 블록이 있으면, 우클릭을 사용해서 앞에 손에 있는 블록을 놓거나 혹은 좌클릭으로 블록을 제거할 수 있다.

@@ -15,16 +15,15 @@ title: 마인크래프트 파이 파이썬 프로그래밍
 
 > ## 선수 과목
 >
-> [컴퓨터 과학 언플러그드](http://www.xwmooc.net/csunplugged/book.html)
-> [러플](http://rur-ple.xwmooc.net/)
-> [파이썬 거북이](http://statkclee.github.io/python-novice-turtles-korean/01-poly-kr.html)
+> [컴퓨터 과학 언플러그드](http://www.xwmooc.net/csunplugged/book.html)  
+> [러플](http://rur-ple.xwmooc.net/)  
+> [파이썬 거북이](http://statkclee.github.io/python-novice-turtles/index-kr.html)  
 
 ## 학습주제
 		
-1.  [마인크래프트 실행](01-run.html)
-2.  [Hello World !!!](02-python.html)
-3.  [블록 놓기](03-block.html)
-4.  [폭탄 놀이](04-tnt.html)
+1.  [마인크래프트 설치](00-install.html)
+2.  [파이썬 프로그래밍](01-python.html)
+3.  [두더지 잡기 게임 만들기](02-whac-a-block.html)
 
 ## [번역 라이센스](license.html)
 
